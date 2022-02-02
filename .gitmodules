@@ -13,4 +13,3 @@
 [submodule "libsdl/SDL_net"]
 	path = libsdl/SDL_net
 	url = https://github.com/libsdl-org/SDL_net
-	branch = main
