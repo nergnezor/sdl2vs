@@ -7,3 +7,4 @@ x86
 /SDL2_GradleApp/app/src/main/jniLibs
 *.user
 /.workspace
+.DS_Store
