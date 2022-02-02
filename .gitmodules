@@ -10,3 +10,6 @@
 	path = libsdl/SDL_image
 	url = https://github.com/libsdl-org/SDL_image
 	branch = main
+[submodule "libsdl/SDL_net"]
+	path = libsdl/SDL_net
+	url = https://github.com/libsdl-org/SDL_net
